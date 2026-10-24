@@ -1,0 +1,31 @@
+{
+  "failures": [
+    {
+      "page": "/lesao-medular-traumatica/",
+      "bad": [
+        "404 http://127.0.0.1:52708/wp-content/uploads/2026/03/unnamed1-500x250.png"
+      ]
+    },
+    {
+      "page": "/lesion-medular-traumatica/",
+      "bad": [
+        "404 http://127.0.0.1:52708/wp-content/uploads/2026/03/unnamed1-500x250.png"
+      ]
+    }
+  ],
+  "liveHits": [],
+  "brokenImages": [
+    {
+      "page": "/lesao-medular-traumatica/",
+      "images": [
+        "http://127.0.0.1:52708/wp-content/uploads/2026/03/unnamed1-500x250.png"
+      ]
+    },
+    {
+      "page": "/lesion-medular-traumatica/",
+      "images": [
+        "http://127.0.0.1:52708/wp-content/uploads/2026/03/unnamed1-500x250.png"
+      ]
+    }
+  ]
+}
